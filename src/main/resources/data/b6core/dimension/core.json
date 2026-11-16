@@ -1,0 +1,26 @@
+{
+  "type": "b6core:core",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "b6core:core",
+      "features": false,
+      "lakes": false,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "b6core:core_stone",
+          "height": 58
+        },
+        {
+          "block": "b6core:core_surface",
+          "height": 1
+        }
+      ],
+      "structure_overrides": []
+    }
+  }
+}
